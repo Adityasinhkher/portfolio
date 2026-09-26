@@ -177,7 +177,7 @@ export const DesignToCode: React.FC = () => {
             {/* Direct Link to Aurelis */}
             <div className="pt-4 flex items-center gap-4">
               <a
-                href="http://localhost:5174"
+                href="https://aurelis-ivory.vercel.app"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group inline-flex items-center gap-2 px-5 py-3 bg-white text-hub-bg font-mono text-xs tracking-widest uppercase font-semibold hover:bg-neutral-200 transition-colors"
